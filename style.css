@@ -1,0 +1,20 @@
+img {
+  width: 500px;
+  height: 90vh;
+  border-radius: 10px;
+}
+
+.banner {
+  height: 200px;
+  background-color: brown;
+}
+.whitetitle {
+  color: cornsilk;
+  padding: 4;
+}
+section > ul {
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
